@@ -1,3 +1,9 @@
 .idea/workspace.xml
-mysite/*.pyc
 *.pyc
+/node_modules/
+/semantic/src/
+/semantic/tasks/
+/semantic/gulpfile.js
+/semantic/dist/components/
+/semantic/dist/semantic.css
+/semantic/dist/semantic.js
